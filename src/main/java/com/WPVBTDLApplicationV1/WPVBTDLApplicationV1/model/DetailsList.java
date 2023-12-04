@@ -1,2 +1,5 @@
-package com.WPVBTDLApplicationV1.WPVBTDLApplicationV1.model;public class DetailsList {
+package com.WPVBTDLApplicationV1.WPVBTDLApplicationV1.model;
+
+public class DetailsList {
+
 }
